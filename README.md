@@ -39,7 +39,7 @@ This is a personal learning project, and the notes reflect my understanding and 
 ## 📖 Credits
 
 This learning journey is based on the **Embedded Systems Programming** course by **Balajee Seshadri**.  
-Huge thanks to him for delivering clear and practical explanations that helped solidify these concepts.
+Huge thanks to him for delivering clear and practical explanations that helped solidify these concepts. <br>
 You can access the Embedded Systems Programming course by contacting Balajee Seshadri through his [LinkedIn profile](https://in.linkedin.com/in/balajeeseshadri).
 
 Feel free to ⭐ the repo if you find it useful!
