@@ -34,14 +34,16 @@ Each day focuses on a foundational topic, gradually building a strong understand
 
 
 
-## 🧠 Note
+## 📝 Note
 
 This is a personal learning project, and the notes reflect my understanding and interpretation of the concepts. Feedback and suggestions are welcome!
 
-## 📖 Credits
+## 🧠 Credits
 
 - This learning journey is based on the **Embedded Systems Programming** course by **Balajee Seshadri**.  
 - Huge thanks to him for delivering clear and practical explanations that helped solidify these concepts.
 - You can access the Embedded Systems Programming course by contacting Balajee Seshadri through his [LinkedIn profile](https://in.linkedin.com/in/balajeeseshadri).
+
+<br>
 
 Feel free to ⭐ the repo if you find it useful!
