@@ -32,6 +32,11 @@ Each day focuses on a foundational topic, gradually building a strong understand
 | 20  | Microprocessor Input Logic   | [Day-20](https://github.com/Sree-Vishnu-Varthini/21_Days_of_Embedded_Systems_Programming/blob/master/21%20Days%20of%20Embedded%20Systems%20Programming/Day-20.pdf) |
 | 21  | Microprocessor Output Logic  | [Day-21](https://github.com/Sree-Vishnu-Varthini/21_Days_of_Embedded_Systems_Programming/blob/master/21%20Days%20of%20Embedded%20Systems%20Programming/Day-21.pdf) |
 
+## 📘 Complete Notes (All 21 Days)
+
+If you'd like to access all topics in one document, download the complete set of notes here:
+
+👉 [21 Days of Embedded Systems Programming – Complete Notes](https://github.com/Sree-Vishnu-Varthini/21_Days_of_Embedded_Systems_Programming/blob/master/Complete%20Notes%20-%2021%20Days%20of%20Embedded%20Systems%20Programming/21%20Days%20of%20Embedded%20Systems%20Programming%20-%20Complete%20Notes.pdf)
 
 
 ## 📝 Note
