@@ -23,7 +23,7 @@ Each day focuses on a foundational topic, gradually building a strong understand
 | 11  | RAM (Part 1)                 | [Day-11](https://github.com/Sree-Vishnu-Varthini/21_Days_of_Embedded_Systems_Programming/blob/master/21%20Days%20of%20Embedded%20Systems%20Programming/Day-11.pdf) |
 | 12  | RAM (Part 2)                 | [Day-12](https://github.com/Sree-Vishnu-Varthini/21_Days_of_Embedded_Systems_Programming/blob/master/21%20Days%20of%20Embedded%20Systems%20Programming/Day-12.pdf) |
 | 13  | ROM                          | [Day-13](https://github.com/Sree-Vishnu-Varthini/21_Days_of_Embedded_Systems_Programming/blob/master/21%20Days%20of%20Embedded%20Systems%20Programming/Day-13.pdf) |
-| 14  | Microprocessor               | [Day-14](https://github.com/Sree-Vishnu-Varthini/21_Days_of_Embedded_Systems_Programming/blob/master/21%20Days%20of%20Embedded%20Systems%20Programming/Day-14.pdf) |
+| 14  | Microprocessor Introduction  | [Day-14](https://github.com/Sree-Vishnu-Varthini/21_Days_of_Embedded_Systems_Programming/blob/master/21%20Days%20of%20Embedded%20Systems%20Programming/Day-14.pdf) |
 | 15  | Microprocessor Language      | [Day-15](https://github.com/Sree-Vishnu-Varthini/21_Days_of_Embedded_Systems_Programming/blob/master/21%20Days%20of%20Embedded%20Systems%20Programming/Day-15.pdf) |
 | 16  | Microprocessor Clock         | [Day-16](https://github.com/Sree-Vishnu-Varthini/21_Days_of_Embedded_Systems_Programming/blob/master/21%20Days%20of%20Embedded%20Systems%20Programming/Day-16.pdf) |
 | 17  | Microprocessor Bus Signals   | [Day-17](https://github.com/Sree-Vishnu-Varthini/21_Days_of_Embedded_Systems_Programming/blob/master/21%20Days%20of%20Embedded%20Systems%20Programming/Day-17.pdf) |
